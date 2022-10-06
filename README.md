@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Projeto CPS - Via Rápida</h1>
+<h1>Project CPS - Via Rápida</h1>
 </div>
 
 <br />
